@@ -1,5 +1,5 @@
 try{
-    return "Success"
+    return true;
 }catch(err){
     return `Error: ${err}`;
 }
